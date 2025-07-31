@@ -1,0 +1,44 @@
+# Core Flask dependencies
+Flask==3.0.0
+Flask-CORS==4.0.0
+Flask-SQLAlchemy==3.1.1
+
+# Environment and configuration
+python-dotenv==1.0.0
+
+# Database
+SQLAlchemy==2.0.23
+
+# HTTP requests
+requests==2.32.4
+
+# OpenAI API
+openai==1.54.3
+
+# Twilio integration
+twilio==9.7.0
+
+# WebSocket support
+websockets==15.0.1
+
+# Audio processing
+pydub==0.25.1
+
+# Date/time handling
+python-dateutil==2.8.2
+
+# JSON Web Tokens (if needed for auth)
+PyJWT==2.10.1
+
+# HTTP client for async operations
+aiohttp==3.12.15
+aiohttp-retry==2.9.1
+
+# Production WSGI server
+gunicorn==21.2.0
+
+# Additional utilities
+attrs==25.3.0
+multidict==6.6.3
+yarl==1.20.1
+
